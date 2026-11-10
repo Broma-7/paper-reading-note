@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人论文阅读笔记"
+  short_description: "根据已有精读笔记，按个人示例改写为任务引入、配图讲解的中文阅读笔记"
+  default_prompt: "请用 $paper-reading-note 将指定论文的精读笔记改写成我的阅读笔记风格。"
